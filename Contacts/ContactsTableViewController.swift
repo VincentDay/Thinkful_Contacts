@@ -131,5 +131,5 @@ class ContactsTableViewController: UITableViewController {
     }
     */
 
-    // for commitss
+    // for commit
 }
